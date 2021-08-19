@@ -1,0 +1,69 @@
+body {
+    /* color: white; */
+    color:#c6c6c6;
+    background-color: #052120;
+}
+
+.movie-content h1,h2,h3 {
+    margin: 0px;
+}
+
+.movie-content h1 {
+    color:#c6c6c6;
+    padding-top: 30px;
+    background-color:#4a4a4a;
+    padding: 30px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+.movie-body {
+    display: flex;
+}
+
+.movie-poster {
+    /* background-color: brown; */
+}
+
+.movie-details {
+    padding-left: 20px;
+    padding-right:20px;
+    width: 100%;
+}
+
+.input-fields {
+    padding: 10px;
+}
+
+.input-field {
+    width : 70%;
+}
+
+.input-types {
+    border: 2px solid black;
+    outline: none;
+    padding-top: 5px;
+    padding-bottom: 5px ;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+}
+
+.submit-btn {
+    margin-left: 5px;
+    width: 15%;
+    color: lightblue;
+    background-color: darkslateblue;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.ratings {
+    display: flex;
+    justify-content: space-between;
+}
+
+.ratings p {
+    margin: 0px;
+    padding: 0px;
+}
