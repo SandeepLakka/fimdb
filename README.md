@@ -9,6 +9,7 @@ This Application uses OMDB API to query for Movie/Series title in it's Database 
 ## How to run:
 
 In this project directory, run the following command:
+### `npm i`
 
 ### `npm start`
 
