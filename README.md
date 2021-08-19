@@ -8,9 +8,10 @@ This Application uses OMDB API to query for Movie/Series title in it's Database 
 
 ## How to run:
 
-In this project directory, run the following command:
+Run the following to install dependencies( for the first time )
 ### `npm i`
 
+Run the following to run application
 ### `npm start`
 
 Open http://localhost:3000 to view the output in the browser.
