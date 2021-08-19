@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/fimdb/static/css/main.1087a3d5.chunk.css",
+    "main.js": "/fimdb/static/js/main.30424282.chunk.js",
+    "main.js.map": "/fimdb/static/js/main.30424282.chunk.js.map",
+    "runtime-main.js": "/fimdb/static/js/runtime-main.79cfd1d0.js",
+    "runtime-main.js.map": "/fimdb/static/js/runtime-main.79cfd1d0.js.map",
+    "static/js/2.1fb816d5.chunk.js": "/fimdb/static/js/2.1fb816d5.chunk.js",
+    "static/js/2.1fb816d5.chunk.js.map": "/fimdb/static/js/2.1fb816d5.chunk.js.map",
+    "index.html": "/fimdb/index.html",
+    "static/css/main.1087a3d5.chunk.css.map": "/fimdb/static/css/main.1087a3d5.chunk.css.map",
+    "static/js/2.1fb816d5.chunk.js.LICENSE.txt": "/fimdb/static/js/2.1fb816d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79cfd1d0.js",
+    "static/js/2.1fb816d5.chunk.js",
+    "static/css/main.1087a3d5.chunk.css",
+    "static/js/main.30424282.chunk.js"
+  ]
+}
