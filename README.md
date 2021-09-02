@@ -6,6 +6,8 @@ This is basic clone of IMDB to search for Movies and/or Series.
 
 This Application uses OMDB API to query for Movie/Series title in it's Database and displays the contents in browser.
 
+Live : https://sandeeplakka.github.io/fimdb/
+
 ## How to run:
 
 Run the following to install dependencies( for the first time )
