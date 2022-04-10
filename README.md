@@ -10,10 +10,10 @@ Live : https://sandeeplakka.github.io/fimdb/
 
 ## How to run:
 
-Run the following to install dependencies( for the first time )
+For the first time, Run the following to install dependencies
 ### `npm i`
 
-Run the following to run application
+Run the following to start application
 ### `npm start`
 
 Open http://localhost:3000 to view the output in the browser.
