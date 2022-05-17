@@ -13,14 +13,14 @@ Live : https://sandeeplakka.github.io/fimdb/
 For the first time, Run the following to install dependencies
 ### `npm i`
 
-Run the following to start application
+(Subsequently,) Run the following to start application
 ### `npm start`
 
 Open http://localhost:3000 to view the output in the browser.
 
 ## Pre-requisites:
 
-This project needs npm to run this React JS application.
+This project needs NodeJs and npm to run this React JS application.
 
 ### Note:
 
